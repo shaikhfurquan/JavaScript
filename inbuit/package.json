@@ -1,0 +1,17 @@
+{
+  "name": "inbuit",
+  "version": "1.0.0",
+  "description": "node staticapi",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node staticapi.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "static",
+    "api"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
