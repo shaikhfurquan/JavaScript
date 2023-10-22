@@ -5,7 +5,7 @@ req  --> what we send to the server(params, queryParams , body)
         params        -->what we pass after(/)
         queryParams   -->what we pass after(?)
         body          -->we send through the form
-res  --> what server sends in return
+res  --> what server sends in return---
 */
 
 
