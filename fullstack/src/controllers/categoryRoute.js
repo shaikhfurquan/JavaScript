@@ -29,7 +29,7 @@ categoryRouter.route('/')
 .get((req,res) =>{
     res.send(category)
 })
-categoryRouter.route('/details')
+categoryRouter.route('/details') 
 .get((req,res) =>{
     res.send('category Details')
 })
